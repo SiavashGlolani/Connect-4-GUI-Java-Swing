@@ -29,7 +29,7 @@ To run the Connect-4 game:
 ```bash
 java -jar Connect-4.jar
 
-## Features
+-## Features
 
 - **Multiplayer Gameplay**: Two players can enjoy Connect-4 in real-time. The game supports a client-server model where one player sets up the game as the host and the other connects as the client.
 
