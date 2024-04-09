@@ -84,7 +84,7 @@ Remember, a stable network connection is required for online play.
 
 Credits
 
-Developed by Siavash Glolani as a personal project to understand networking and GUI development in Java.
+Developed by Siavash Glolani in collaboration with Ved Patel as a personal project to understand networking and GUI development in Java.
 
 
 ## Contact
