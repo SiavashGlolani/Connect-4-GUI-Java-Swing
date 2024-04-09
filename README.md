@@ -9,7 +9,6 @@ A Connect-4 game implemented in Java Swing that allows two players to play again
 - [Installation](#installation)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
 - [Contact](#contact)
@@ -86,3 +85,8 @@ Remember, a stable network connection is required for online play.
 Credits
 
 Developed by Siavash Glolani as a personal project to understand networking and GUI development in Java.
+
+
+## Contact
+
+If you have any queries regarding this project, please contact me at h.glolani@gmail.com.
